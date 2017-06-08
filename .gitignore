@@ -99,3 +99,10 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# Backup files
+*.bak
+nppBackup/
+
+# sqlite3 db
+*.sqlite3
