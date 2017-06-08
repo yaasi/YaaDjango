@@ -1,9 +1,11 @@
 # YaaDjango
 First step to Django.
 
-## Setup 
+__Please use Python 3.__
+
+## Setup
 ### Virtual environment
-```> python -m venv venv```
+```> python3 -m venv venv```
 
 from shell:
 ```$ source venv/bin/activate```
